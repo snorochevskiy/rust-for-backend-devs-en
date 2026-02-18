@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="RVb3Udn_NCIMKWQ8ziZy">
+    <mxGraphModel dx="1115" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ArvWv70rz9fHUf18CLkM-1" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=none;size=30;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="140" width="280" x="120" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ArvWv70rz9fHUf18CLkM-2" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=16;strokeWidth=2;" value="main.rs" vertex="1">
+          <mxGeometry height="60" width="170" x="220" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ArvWv70rz9fHUf18CLkM-3" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=16;strokeWidth=2;" value="mod1.rs" vertex="1">
+          <mxGeometry height="60" width="170" x="220" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ArvWv70rz9fHUf18CLkM-4" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=16;size=20;strokeWidth=2;" value="mod2.rs" vertex="1">
+          <mxGeometry height="80" width="90" x="140" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ArvWv70rz9fHUf18CLkM-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipH=1;legacyAnchorPoints=0;size=30;fillColor=#E6E6E6;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="30" width="280" x="120" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ArvWv70rz9fHUf18CLkM-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;size=30;fillColor=#E6E6E6;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="30" width="140" x="65" y="235" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

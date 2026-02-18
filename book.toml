@@ -1,0 +1,8 @@
+[book]
+title = "Rust for back-end developers"
+language = "en"
+authors = ["Stanislav Norochevskyi"]
+description = "Quick dive into development of back-end applications in Rust"
+
+[output.html]
+additional-css = ["theme/no-wrap-code.css", "theme/table.css", "theme/ascii-diagram.css"]
